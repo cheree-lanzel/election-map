@@ -19,3 +19,5 @@
 body {
   color: black;
 }
+
+.link { @apply hover:font-bold}
