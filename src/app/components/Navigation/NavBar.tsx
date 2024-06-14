@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import Logo from '../../../../public/Strategi IQ transparent (2).svg'
+import Logo from '../../../../public/StrategiIQ-transparent.svg'
 const NavBar = () => {
     return (
         <nav className={`w-full h-6 flex justify-center items-center pt-8 pb-8`}>
